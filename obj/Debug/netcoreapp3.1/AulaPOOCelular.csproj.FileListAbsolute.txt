@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Taila\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.exe
+C:\Users\dev\Desktop\Taila\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.deps.json
+C:\Users\dev\Desktop\Taila\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.runtimeconfig.json
+C:\Users\dev\Desktop\Taila\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Taila\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.dll
+C:\Users\dev\Desktop\Taila\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.pdb
+C:\Users\dev\Desktop\Taila\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Taila\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Taila\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.AssemblyInfo.cs
+C:\Users\dev\Desktop\Taila\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Taila\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.dll
+C:\Users\dev\Desktop\Taila\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.pdb
+C:\Users\dev\Desktop\Taila\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.genruntimeconfig.cache
