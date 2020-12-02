@@ -37,7 +37,7 @@ namespace AulaPOOCelular
                 Console.WriteLine("[2] Fazer Ligação");
                 Console.WriteLine("[3] Enviar Mensagem");
                 Console.WriteLine("[0] Sair");
-                Menu = Console.ReadLine();
+                Menu = int.Parse(Console.ReadLine());
 
                 switch (Menu)
                 {
